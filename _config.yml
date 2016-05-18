@@ -1,0 +1,22 @@
+﻿# Site settings
+title: Fabio Eduardo dos Reis
+my-name: Fabio Eduardo dos Reis
+email: fabio.dosreis@gmail.com
+description: "This is my personal website, make with Jekyll and hosted at Github.com"
+baseurl: ""
+url: "http://www.fabiodosreis.com/"
+
+gravatar-url: http://www.gravatar.com/avatar/fb84d2df934999fc747feb4d7c758e2c&size=400
+
+bitbucket-url: http://bucket.marceloboeira.com
+skype-url: callTo://fabio.dosreis2
+linkedin-url: http://linkedin.com/in/fabiodosreis
+github-user: fabiodosreis2
+github-url: http://github.com/
+github-repo: http://github.com/fabiodosreis2
+facebook-user: fabiodosreis2
+facebook-url: http://www.facebook.com/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
